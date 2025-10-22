@@ -7,6 +7,9 @@ Nesta atividade, você irá **reproduzir a interface principal da loja Steam** c
 ---
 
 ![Home Page Steam](https://github.com/dhDSouza/programacao_web_adolescencetes/blob/main/Home.png)
+<div align="center">
+  <p style="text-align: center;"><em>Fonte:</em> <a href="https://store.steampowered.com/" target="_blank">https://store.steampowered.com/</a></p>
+</div>
 
 ## 📸 Referência visual:
 
