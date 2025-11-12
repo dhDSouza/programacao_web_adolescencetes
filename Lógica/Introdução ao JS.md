@@ -5,7 +5,7 @@
 JavaScript é a linguagem que faz as páginas deixarem de ser "figurinhas" estáticas. É o que dá vida, movimento, decisões e interação.
 
 <div align="center">
-  <img src="./esqueleto_js.png" alt="Esqueleto estiloso segurando uma carta de JS enqaunto caminha.">
+  <img src="../esqueleto_js.png" alt="Esqueleto estiloso segurando uma carta de JS enqaunto caminha.">
 </div>
 
 * HTML → estrutura
