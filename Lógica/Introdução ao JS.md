@@ -1,4 +1,4 @@
-# Aula 14 – Introdução ao JavaScript 🚀
+# Aula 1 – Introdução ao JavaScript 🚀
 
 ## 1️⃣ Antes de tudo: Para que serve o JavaScript? 🧠
 
