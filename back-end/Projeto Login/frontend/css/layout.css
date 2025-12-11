@@ -1,0 +1,20 @@
+body {
+    width: 100%;
+    min-height: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: var(--cor-fundo);
+    color: var(--cor-letra);
+}
+
+header {
+    width: 100%;
+    min-height: 10vh;
+    background-color: #333;
+    padding: 5px;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+main {
+    flex: 1;
+}

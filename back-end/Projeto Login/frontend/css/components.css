@@ -1,0 +1,11 @@
+.btn {
+    border: none;
+    border-radius: 5px;
+    background-color: var(--cor-primaria);
+    color: white;
+    padding: 5px;
+}
+
+form {
+    row-gap: 5px;
+}

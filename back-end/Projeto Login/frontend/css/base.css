@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Tema Padrão (dark) */
+:root {
+    --cor-fundo: #051d54;
+    --cor-letra: white;
+    --cor-botao: #3f70e1;
+}
+
+@media (prefers-color-scheme: light) {
+    :root {
+        --cor-fundo: #3f70e1;
+        --cor-letra: white;
+        --cor-botao: #051d54;
+    }
+}

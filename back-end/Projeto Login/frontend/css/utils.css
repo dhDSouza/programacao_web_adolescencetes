@@ -1,0 +1,26 @@
+.light {
+    --cor-fundo: #3f70e1;
+    --cor-letra: white;
+    --cor-primaria: #051d54;
+}
+
+.dark {
+    --cor-fundo: #051d54;
+    --cor-letra: white;
+    --cor-primaria: #3f70e1;   
+}
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-center {
+    justify-content: center;
+    align-items: center;
+}
