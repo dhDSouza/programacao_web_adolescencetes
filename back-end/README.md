@@ -21,7 +21,10 @@ Nas próximas etapas, o projeto receberá:
 
 ## ⚙️ Backend
 
-O backend já está estruturado, porém **sem a pasta `node_modules`** incluída no repositório.  
+O backend já está estruturado, porém **sem a pasta `node_modules`** incluída no repositório.
+
+Faça o download do projeto [aqui](https://github.com/dhDSouza/programacao_web_adolescencetes/raw/refs/heads/main/back-end/Projeto%20Login.zip).
+
 Antes de rodar o servidor, execute:
 
 ```bash
