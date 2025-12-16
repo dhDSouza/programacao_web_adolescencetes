@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfil do Usuário</title>
+    <link rel="shortcut icon" href="./public/favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="./css/style.css">
+    <script src="./js/script.js" defer></script>
+</head>
+
+<body class="flex-column">
+    <header class="flex-row">
+        <button class="btn" id="btnTema">🎨 Alterar Tema</button>
+    </header>
+    <main class="flex-column flex-center gap">
+        <h1>Perfil do Usuário</h1>
+
+        <!-- Exibição das informações do usuário -->
+        <section id="userInfo" class="flex-column flex-center">
+            <h2>Bem-vindo, <span id="userEmail">Usuário</span>!</h2>
+            <p>E-mail: <span id="emailDisplay">exemplo@dominio.com</span></p>
+        </section>
+
+        <!-- Formulário para atualização de dados -->
+        <section id="updateSection">
+            <h3>Atualizar Dados</h3>
+            <form id="formAtualizar" class="flex-column flex-center">
+                <input type="email" id="novoEmail" placeholder="Novo E-mail" />
+                <input type="password" id="novaSenha" placeholder="Nova Senha" />
+                <button type="submit">Atualizar</button>
+            </form>
+        </section>
+
+        <!-- Formulário para exclusão de conta -->
+        <section id="deleteSection">
+            <h3>Excluir Conta</h3>
+            <form id="formDeletar" class="flex-column flex-center">
+                <p>Tem certeza que deseja excluir sua conta?</p>
+                <button type="submit">Excluir Conta</button>
+            </form>
+        </section>
+
+        <p><a href="./index.html">Voltar para o login</a></p>
+    </main>
+</body>
+
+</html>
